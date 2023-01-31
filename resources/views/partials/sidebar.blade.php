@@ -9,7 +9,7 @@
         <ul class="sidebar-menu">
             @if (Auth::check() && Auth::user()->roles == 'admin')
             <li class="{{ request()->routeIs('admin.dashboard.*') ? 'active' : '' }}"><a class="nav-link" href="{{ route('admin.dashboard') }}"><i class="fas fa-columns"></i> <span>Dashboard</span></a></li>
-            <li class="menu-header">Master Data</li>
+            <li class="menu-header">Master</li>
 
             <li class="{{ request()->routeIs('jurusan.*') ? 'active' : '' }}"><a class="nav-link" href="{{ route('jurusan.index') }}"><i class="fas fa-book"></i> <span>Jurusan</span></a></li>
 
