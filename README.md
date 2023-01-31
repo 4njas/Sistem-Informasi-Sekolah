@@ -5,7 +5,7 @@ Sistem informasi sekolah berbasis laravel 8 dengan template dashboard
 [Stisla](https://getstisla.com/)
 ## Authors
 
-- [Pascal Adnan](https://www.github.com/lacsapadnan)
+- [Kelompok AMBARA](https://github.com/4njas)
 
 
 ## Fitur
@@ -32,7 +32,7 @@ Sistem informasi sekolah berbasis laravel 8 dengan template dashboard
 clone project atau download
 
 ```bash
-  git clone https://github.com/lacsapadnan/Sistem-Informasi-Sekolah.git
+  git clone https://github.com/4njas/Sistem-Informasi-Sekolah.git
   cd Sistem-Informasi-Sekolah
   npm install
   composer install
@@ -84,13 +84,12 @@ Siswa
 ```
 ## Update Selanjutnya
 
-- Fitur Pengumuman Sekolah
+- Tampilan Aplikasi
 
-- Fitur Absensi (Premium)
+- Fitur Absensi (metode CRUD)
 
-- Fitur Kuis atau Ujian (Premium)
+- Fitur Mapping Kelas Tiap Siswa (metode CRUD)
 
-- Fitur Tabungan Siswa via Midtrans (Premium)
+- Fitur Notifikasi Setelah Absensi 
 
-- Fitur Pembayaran Sekolah via Midtrans (Premium)
 
